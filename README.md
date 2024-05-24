@@ -16,7 +16,7 @@ Installation\
 
 bash\
 Copy code\
-git clone https://github.com/yourusername/bank-dataset-analysis.git\
+git clone https://github.com/rpjinu/bank-dataset-analysis.git\
 #Navigate to the project directory:
 
 bash\
